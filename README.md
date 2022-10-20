@@ -2,6 +2,7 @@
 
 Buffalo represents NewYork, my hometown. <br> 
 Iphone charging sign represents my enthusiam for learning coding.
+💡
 
 
 
